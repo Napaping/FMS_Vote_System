@@ -128,7 +128,7 @@
                 <div class="col-sm-3 text-center">
                     <form id="admin-setting" name="admin-setting" method="post" action="setting_op.php">
                         <div class="form-group">
-                            <label>สถานะผลการเลือกตั้ง</label>
+                            <label>สถานะผลการเลือกตั้ง 5</label>
                             <select class="form-control custom-select" name="result-status">
                                 <option value="1" <?php if ($show_result) echo 'selected' ?>>เปิดการแสดงผลการเลือกตั้ง</option>
                                 <option value="0" <?php if (!$show_result) echo 'selected' ?>>ปิดการแสดงผลการเลือกตั้ง</option>
