@@ -1,7 +1,7 @@
 <?php 
 
     session_start();
-    // Hello
+
     // $_SESSION['admin_std_id'] = "6010513052"; 
 
      /* if (!isset($_SESSION['admin_std_id'])) {
