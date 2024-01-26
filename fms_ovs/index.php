@@ -76,9 +76,11 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.php">หน้าแรก</a></li>
                         <?php 
-                            if ($vote_status) {
+                            if ($vote_status) { 
                                 echo "<li><a href='sign-in.html'>เข้าสู่ระบบ</a></li>";
-                            }
+                            } else { 
+                                echo "<li><a href='admin/sign-in_admin.html'>Admin</a></li>";
+                            } 
                         ?>
                         <?php 
                             if ($show_result) {
