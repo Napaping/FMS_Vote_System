@@ -1,3 +1,6 @@
+<?php
+		session_start();
+?>
 <?php 
 
     include_once 'php/dbconnect.php';
@@ -75,17 +78,44 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.php">หน้าแรก</a></li>
-                        <?php 
-                            if ($vote_status) { 
-                                echo "<li><a href='sign-in.html'>เข้าสู่ระบบ</a></li>";
-                            } else { 
-                                echo "<li><a href='admin/sign-in_admin.html'>Admin</a></li>";
-                            } 
-                        ?>
-                        <?php 
+                        <!--<?php 
+                            if ($vote_status) { ?>
+                                <li><a href='sign-in.html'>เข้าสู่ระบบ</a></li>
+                            <?php } else { ?> 
+                                <li><a href='admin/sign-in_admin.html'>Admin</a></li>
+                            <?php } 
+                        ?>-->
+                        <!--<?php 
                             if ($show_result) {
                                 echo "<li><a href='vote-result.php'>ผลการเลือกตั้ง</a></li>";
                             }
+                        ?>-->
+                        <?php 
+                            if (isset($_SESSION['std_id'])) { ?>
+                                <li><a href="vote.php">ลงคะแนนโหวต</a></li>
+                                <li class="dropdown"><a><?php echo $_SESSION['std_id']; ?> <i class="fas fa-angle-down"></i></a>
+                                <ul role="menu" class="sub-menu">
+                                <li><a href="php/sign-out.php">Sign Out</a></li>
+                                </ul></li>
+                        <?php } elseif (isset($_SESSION['admin_std_id'])) { ?>
+                            <li><a href="vote-result.php">ผลการเลือกตั้ง</a></li>
+                            <li><a href="admin/admin_setting.php">แก้ไขสถานะ</a></li>
+                            <li class="dropdown"><a><?php echo $_SESSION['admin_std_id']; ?> <i class="fa fa-angle-down"></i></a>
+                            <ul role="menu" class="sub-menu">
+                            <li><a href="admin/sign-out_admin.php">Sign Out</a></li>
+                            </ul>
+                        </li>
+                        <?php } elseif ($vote_status&$show_result) { ?>
+                            <li><a href='sign-in.html'>เข้าสู่ระบบ</a></li>
+                            <li><a href='vote-result.php'>ผลการเลือกตั้ง</a></li>
+                        <?php } elseif ($show_result) { ?>
+                            <li><a href='vote-result.php'>ผลการเลือกตั้ง</a></li>
+                            <li><a href='admin/sign-in_admin.html'>Admin</a></li>  
+                        <?php } elseif ($vote_status) { ?>
+                                <li><a href='sign-in.html'>เข้าสู่ระบบ</a></li>
+                            <?php } else { ?> 
+                                <li><a href='admin/sign-in_admin.html'>Admin</a></li>    
+                            <?php } 
                         ?>
                     </ul>
                 </div>
@@ -107,12 +137,23 @@
                                 <span id="clock"></span>
                                 <!-- เหลือเวลาลงคะแนนโหวต 8.00 ชม. -->
                         </h3>
-                        <?php 
+                        <!--<?php 
                             if ($vote_status) {
                                 echo "<a href='sign-in.html' class='btn btn-common2'>เข้าสู่ระบบ/Sign In</a>";
                             } else {
                                 echo "<a href='sign-in.html' class='btn btn-common2' disabled>เข้าสู่ระบบ/Sign In</a>";
                             }
+                        ?>-->
+                        <?php 
+                            if (isset($_SESSION['std_id'])) { ?>
+
+                        <?php } elseif (isset($_SESSION['admin_std_id'])) { ?> 
+
+                        <?php } elseif ($vote_status) { ?>
+                            <a href='sign-in.html' class='btn btn-common2'>เข้าสู่ระบบ/Sign In</a>
+                            <?php } else { ?> 
+                                <a href='sign-in.html' class='btn btn-common2' disabled>เข้าสู่ระบบ/Sign In</a>
+                            <?php } 
                         ?>
                     </div>
 

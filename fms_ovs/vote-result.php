@@ -1,3 +1,6 @@
+<?php
+		session_start();
+?>
 <?php 
 
     //check admin session
@@ -82,7 +85,15 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">หน้าแรก</a></li>
-                        <li><a href="vote-result.php">Refresh</a></li>           
+                        <li><a href="vote-result.php">Refresh</a></li> 
+                        <?php 
+                            if (isset($_SESSION['admin_std_id'])) { ?>
+                                <li><a href="admin/admin_setting.php">แก้ไขสถานะ</a></li>
+                                <li class="dropdown"><a><?php echo $_SESSION['admin_std_id']; ?> <i class="fas fa-angle-down"></i></a>
+                                <ul role="menu" class="sub-menu">
+                                <li><a href="php/sign-out.php">Sign Out</a></li>
+                                </ul></li>  
+                        <?php } ?>          
                     </ul>
                 </div>
             </div>

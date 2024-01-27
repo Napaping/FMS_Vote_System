@@ -76,6 +76,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="../index.php">หน้าแรก</a></li>
                         <li><a href="../vote-result.php">ผลการเลือกตั้ง</a></li>
+                        <li class="active"><a href="admin_setting.php">แก้ไขสถานะ</a></li>
                         <li class="dropdown"><a><?php echo $_SESSION['admin_std_id']; ?> <i class="fa fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
                                 <li><a href="sign-out_admin.php">Sign Out</a></li>
