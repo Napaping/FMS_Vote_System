@@ -4,7 +4,7 @@
 
     // $_SESSION['admin_std_id'] = "6010513052"; 
 
-      if (!isset($_SESSION['admin_std_id'])) {
+    if (!isset($_SESSION['admin_std_id'])) {
          header("Location: sign-in_admin.html");
     } 
 
