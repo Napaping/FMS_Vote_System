@@ -69,7 +69,7 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">หน้าแรก</a></li>
-                        <li class="dropdown"><a href="#"><?php echo $_SESSION['std_id']; ?> <i class="fas fa-angle-down"></i></a>
+                        <li class="dropdown"><a><?php echo $_SESSION['std_id']; ?> <i class="fas fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
                                 <li><a href="php/sign-out.php">Sign Out</a></li>
                             </ul>
