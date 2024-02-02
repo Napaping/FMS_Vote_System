@@ -105,14 +105,14 @@
         <div class="container">
             <div class="row">
                 <center><div class="textbox" ><br>
-                    <h1 style="background-color : #cc99ff; color : white;" >FMS UTOPIA</h1>
+                    <h1 style="background-color : #cc99ff; color : white;" >The Journey of FMS</h1>
                 </div></center>
                 <div class="portfolio-items padding-top">
                     <div class="col-sm-12 portfolio-item branded logos">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-single">
                                 <div class="portfolio-thumb logo-image">
-                                    <img src="./images/group/samo46/samo_46.png" width="700px" class="img-responsive" alt="">
+                                    <img src="images\Samo47\Samo47_logo\The_Journey_of_FMS.png" width="700px" class="img-responsive" alt="">
                                 </div>
                             </div>
                         </div>
@@ -139,39 +139,50 @@
                                         <h1 class="modal-title" id="exampleModalLongTitle" style="color : white;">นโยบายของพรรค</h1>
                                 </div>
                                 <div align="center">
-                                    <img src="./images/group/samo46/samo_46.png" width="250px" height="250px">
+                                    <img src="images\Samo47\Samo47_logo\The_Journey_of_FMS.png" width="250px" height="250px">
                                 </div>
                                 <div class="modal-body">
                                     <div align="left">
                                         <label style="font-size: 18px;">ความหมายสัญลักษณ์</label>
                                         <div style="font-size: 16px;">
+                                            <p>The Journey of FMS</p>
+                                            <p>Journey &nbsp;:&nbsp; การเดินทางที่จะมาพร้อมกับประสบการณ์ใหม่ๆ และมีจุดมุ่งหมายคือความสำเร็จที่เป็นจริงโดยทางพรรคได้ให้ความหมายย่อยของแต่ละตัวอักษร ดังต่อไปนี้</p>
+                                            <p>J คือ Joy หมายถึง ความรู้สึกยินดีและมีความสุขที่จะเข้ามาพัฒนาคณะวิทยาการจัดการ</p>
+                                            <p>O คือ Opportunity หมายถึง โอกาสที่ในการพัฒนาศักยภาพ</p>
+                                            <p>U คือ Unique หมายถึง ความมีเอกลักษณ์เฉพาะตัว โดยการดึงเอกลักษณ์เฉพาะตัวของแต่ละบุคคลมาส่งเสริมและพัฒนา</p>
+                                            <p>R คือ Relation หมายถึง การสร้างความสัมพันธ์ที่แข่งแกร่งของคนในพรรค รวมถึงการสร้างความสัมพันธ์ระหว่างนักศึกษาด้วยกันในคณะวิทยาการจัดการ</p>
+                                            <p>N คือ New หมายถึง การเดินทางครั้งใหม่ที่มาพร้อมกับความมุ่งมั่นและตั้งใจ</p>
+                                            <p>E คือ Equity หมายถึง การเสริมสร้างความเสมอภาคท่ามกลางความหลากหลาย</p>
+                                            <p>Y คือ Yearning หมายถึง ความปรารถนา โดยมีจุดประสงค์และจุดมุ่งหมายที่แน่วแน่เพื่อจะทำให้เกิดความสำเร็จ</p>
                                             <p>FMS &nbsp;:&nbsp; เป็นตัวอักษรย่อของชื่อคณะวิทยาการจัดการในภาษาอังกฤษ โดยย่อมาจาก Faculty of Management Sciences</p>
-                                            <p>FMS UTOPIA &nbsp;:&nbsp; คือ เมืองที่มีแต่ความดีงาม ความยุติธรรม เป็นระเบียบเรียบร้อย มีประชากรที่เป็นมิตร เป็นเสมือนสังคมในอุดมคติของใครหลายๆคน ทั้งด้านการปกครอง กฎหมาย การจัดระเบียบทางสังคม</p>
-                                            <p>1. ดาวสิงโต 9 ดวง สื่อถึงการรวมตัวกันของชาวคณะวิทยาการจักการทั้งเก้าสาขา ทั้งยังประกอบด้วยดาวเหนือซึ่งเปรียบเสมืนเข็มทิศที่ใช้นำทางชาวคณะวิทยาการจักการไปสู่เป้าหมาย</p> 
-                                            <p>2. พังงาเรือ สื่อถึงสโมสรนักศึกษาที่คอยควบคมหางเสือของเรือ ซึ่งเป็นการนำพาไปสู่เป้าหมาย</p>
-                                            <p>3. สิงห์หน้าตรง หมายถึง การมองการณ์ไกลและการก้าวไปข้างหน้า ทั้งยังสี่อถึงความตั้งใจอย่างแน่วแน่ที่จะทำเป้าหมายให้สำเร็จลุล่วง</p>
-                                            <p>4. เกลียวคลื่น สื่อถึงอุปสรรคในการทำงานที่ต้องพบเจอ เพื่อเป็นสิ่งเตือนใจว่าการทำงานย่อมมีอุปสรรคเสมอ แต่สุดท้ายก็ผ่านอุปสรรคเหล่านั้นมาได้</p>
-                                            <p>5. วงกลมซ้อนทับ สี่อถึงการที่บุคคลหลากหลายเข้ามาอยู่ร่วมกันและทุกคนให้ความเครพในความแตกต่าง ทำให้เราอยู่ร่วมกันภายให้สังคมเดียวกันได้อย่างมีความสุข</p>
+                                            <p>๑. สิงห์สำเภาทอง : ความหลากหลายที่อยู่ภายใต้ความเสมอภาคเดียวกัน โดยแทนสัญลักษณ์ผ่านสีสันบนขนของสิงห์ที่ถึงแม้จะต่างสีกันแต่ก็เป็นความต่างที่มีความสวยงามและลงตัว</p> 
+                                            <p>๒. แววตาของสิงห์ : ความมุ่งมั่นแน่วแน่ และตั้งใจที่จะนำพาลูกวิทยาการไปสู่ความสำเร็จ อีกทั้งยังสื่อถึงการมองการณ์ไกลเพื่อก้าวไปข้างหน้าอย่างมั่นคงและสง่างาม</p>
+                                            <p>๓. ใบเรือ 3 ใบ : การรวมตัวของเหล่าลูกวิทยาการทั้งสามภาควิชาที่พร้อมจะกางใบล่องสู่โลกใบใหม่ที่เป็นจริงอย่างภาคภูม</p>
+                                            <p>๔. เกลียวคลื่น : การเริ่มต้นของคลื่นลูกใหม่ที่เป็นตัวแทนของพวกเราพรรค The Journey of FMS ที่พร้อมจะผลักดันและนำพาทุกคนไปสู่เป้าหมายที่วางไว้ให้เป็นจริง</p>
+                                            <p>๕. เมฆ : การมารวมตัวกันของสมาชิกในพรรค ดั่งการควบรวมของไอน้ำในอากาศก่อนที่จะกลายเป็นเมฆ โดยมีจุดมุ่งหมายจะพัฒนาคณะวิทยาการจัดการไปสู่ความสำเร็จ</p>
+                                            <p>๖. ดวงอาทิตย์ : สัญลักษณ์แห่งแสงสว่างของรุ่งอรุณในการเดินทางครั้งใหม่ที่ใกล้สู่ความเป็นจริง</p>
+                                            <p>๗. เพชรสีน้ำเงิน : ความแข็งเกร่ง สง่างาม กว้างขวางอย่างไม่มีที่สิ้นสุด ที่เปล่งแสงประกายนำพาทุกคนไปสู่ความสำเร็จ</p>
                                         </div>
                                         
                                         <label style="font-size: 18px;">วิสัยทัศน์ของพรรค</label>
                                         <div style="font-size: 16px;">
-                                            <p>ใช้หลักการทำงานของ STE CO (Support, Together, Equity,Challenges,Opportunity) คือ ช่วยเหลือเกื้อกูล ร่วมทุกข์ร่วมสุข เท่าเทียมอย่างให้เกียรติ ท้าทายความสามารถให้โอกาสพัฒนา มุ่งเน้นไปสู่สังคมอันดีงาม มีความเป็นระเบียบเรียบร้อย มีนักศึกษาที่เป็นมิตร เสมือนสังคมในอุดมคติ ทั้งด้านศาสตร์การบริหารและการมีระเบียบทางสังคมของคณะวิทยาการจัดการ</p>
+                                            <p>ก้าวสู่การเดินทางครั้งใหม่ เปิดรับประสบการณ์สู่ความสำเร็จที่เป็นจริง</p>
                                         </div>
 
                                         <label style="font-size: 18px;">พันธกิจของพรรค</label>
                                         <div style="font-size: 16px;">
-                                            <p>1. ส่งเสริมการมีส่วนร่วมในการทำกิจกรรมของนักศึกษาคณะวิทยาการจักการ</p>
-                                            <p>2. มั่งเน้นการแก้ปัญหาอย่างเป็นระบบเพื่อส่งเสริมให้การทำงานมีประสิทธิภาพมากยิ่งขึ้น</p>
-                                            <p>3. เปิดพื้นที่ให้นักศึกษาได้แสดงความคิดเห็น เพื่อนำความคิดเห็นที่ได้มาสร้างสรรค์กิจกรรม เพื่อตอบสนองความต้องการของนักศึกษาคณะวิทยาการจักการ</p>
+                                            <p>1. สร้างสังคมแห่งความหลากหลาย สนับสนุนความเป็นเอกลักษณ์ผลักดันสู่ความเป็นหนึ่ง</p>
+                                            <p>2. เปิดโอกาสให้นักศึกษาคณะวิทยาการจัดการให้สามารถมีส่วนร่วมในการสร้างสรรค์สังคมวิทยาการจัดการในอุดมคติให้เป็นรูปธรรม</p>
+                                            <p>3. ส่งเสริมและพัฒนาศักยภาพ ทักษะความสามารถของนักศึกษาคณะวิทยาการจัดการ สู่ความเป็นเลิศในการด้านของวิชาการและกิจกรรม</p>
                                         </div>
                                         
                                         <label style="font-size: 18px;">นโยบายของพรรค</label>
                                         <div style="font-size: 16px;">
-                                            <p>1. นโยบาย Talk Tak With Samo: การรับฟังถึงปัญหาและความคิดเห็นต่างๆ เพื่อนำมาแก้ไขผ่านรูปแบบกิจกรรม โดยการปฏิบัติงานของสโมสรนักศึกษาคณะวิทยาการจักการ</p>
-                                            <p>2. พี่ว่าไง ห้องว่างั้น : สานต่อกิจกรรมเดิมเพื่อให้นักศึกษามีส่วนร่วมในการทำกิจกรรม รวมทั้งต่อยอดและปรับเปลี่ยนรูปแบบกิจกรรมให้มีความโมเดิร์นกับความเป็นเอกลักษณ์ของนักศึกษาคณะวิทยาการจักการ</p>
-                                            <p>3. Striking FMS : ร่วมกันออกแบบกิจกรรมเพื่อมุ่งเน้นไปทางด้านสังคมแห่งความสุขภายในคณะวิทยาการจัดการ โดยตั้งอยู่บนพื้นฐานความเป็นเอกลักษณ์และคิดสร้างสรรค์</p>
-                                            <p>4. SAMO NEWS : ส่งสริมการประชาสัมพันธ์ กระจายข่าวสารที่เข้าถึงนักศึกษาทุกคน ทั้งภายนอกและภายในคณะ โดยมีการนำเสนอในรูปแบบใหม่</p>
+                                            <p>1. FMS News</p>
+                                            <p>การกระจายข่าวสารและกิจกรรมที่น่าสนใจของคณะวิทยาการจัดการในรูปแบบที่เข้าถึงได้ง่ายขึ้น รวมถึงจะมีการเปิดให้ภาคส่วนต่างๆในคณะวิทยาการจัดการสามารถฝากประชาสัมพันธ์กิจกรรมต่างๆที่จะจัดขึ้นได้</p>
+                                            <p>2. เปิดรับฟังความคิดเห็นและข้อเสนอแนะจากนักศึกษาในคณะวิทยาการจัดการ เพื่อนำมาพัฒนาและปรับปรุงการจัดกิจกรรมต่างๆให้ตอบโจทย์และเกิดประโยชน์กับนักศึกษาคณะวิทยาการจัดการให้ได้มากที่สุด</p>
+                                            <p>3. สนับสนุนเรื่องความหลากหลายและความเสมอภาคที่เกิดขึ้นในคณะวิทยาการจัดการ</p>
+                                            <p>4. สานต่อกิจกรรมและโครงการเดิม รวมถึงการพัฒนาและปรับเปลี่ยนรูปแบบให้มีความเหมาะสมกับยุคสมัยในปัจจุบันมากยิ่งขึ้น</p>
                                         </div>
 
  
@@ -196,128 +207,128 @@
                                 </div>
                                 <div class="modal-body" align="center" style="font-size: 18px;">
                                     <div>
-                                        <img src="./images/group/samo46_h/1) นายก.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ซีล</p>
-                                        <p>ชโนดม เหมทานนท์ </p>
+                                        <img src="images\Samo47\Samo47_member\KIRK.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>KIRK</p>
+                                        <p>SARUNRAT THONGROEK</p>
                                         <p>ผู้ลงสมัครตำแหน่งนายกสโมสรนักศึกษา</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/2) อุปใน.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>แตงโม</p>
-                                        <p>ปวีณ์สุดา อำพะนะ </p>
-                                        <p>ผู้ลงสมัครตำแหน่งอุปนายกฝ่ายกิจการภายใน</p>
+                                        <img src="images\Samo47\Samo47_member\FARIS.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>FARIS</p>
+                                        <p>FARIS MIT-AREE</p>
+                                        <p>ผู้ลงสมัครตำแหน่งอุปนายกกิจการภายใน</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/3) อุปนอก.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ภูมิ</p>
-                                        <p>ภูริวัจน์ ติเสส </p>
-                                        <p>ผู้ลงสมัครตำแหน่งอุปนายกฝ่ายกิจการภายนอก</p>
+                                        <img src="images\Samo47\Samo47_member\MDEE.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>MDEE</p>
+                                        <p>BUNYARIT AUNRUANG</p>
+                                        <p>ผู้ลงสมัครตำแหน่งอุปนายกกิจการภายนอก</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/4) เลขานุการ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ถุงแป้ง</p>
-                                        <p>วณิดา อินทรนิมิต</p>
+                                        <img src="images\Samo47\Samo47_member\FALAR.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>FALAR</p>
+                                        <p>FADILAH BINTALEB</p>
                                         <p>ผู้ลงสมัครตำแหน่งเลขานุการ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/5) เหรัญญิก.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>แพรว</p>
-                                        <p>ปฐมาวดี สุวรรณสิงห์ </p>
+                                        <img src="images\Samo47\Samo47_member\DONUT.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>DONUT</p>
+                                        <p>NICHANAN NILSUWAN</p>
                                         <p>ผู้ลงสมัครตำแหน่งเหรัญญิก</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/7) สวัสดิการ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>เอ้</p>
-                                        <p>ไกรวิชญ์ สาโส๊ะ  </p>
+                                        <img src="images\Samo47\Samo47_member\AON.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>AON</p>
+                                        <p>ARANRAT CHANKAEO</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายสวัสดิการ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/6) ประชาสัมพันธ์.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>โดนัท</p>
-                                        <p>ปุณยนุช ประดิษฐ์วิริยะกุล </p>
+                                        <img src="images\Samo47\Samo47_member\MILD.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>MILD</p>
+                                        <p>SUTISA SAMUTJAIMANEE</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายประชาสัมพันธ์</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/14) ประเมินผล.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>แนน</p>
-                                        <p>บุญธิตา ปานนุ่ม </p>
+                                        <img src="images\Samo47\Samo47_member\KUK.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>KUK</p>
+                                        <p>SATJAPORN INTHONG</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายประเมินผล</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/10) วิชาการ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>วิลา</p>
-                                        <p>วิลาสินี ทิพย์ยอและ </p>
+                                        <img src="images\Samo47\Samo47_member\GUY.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>GUY</p>
+                                        <p>KRIANGKAI PROMMA</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายวิชาการ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/12) ข้อมูลกิจกรรม .JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ปอย</p>
-                                        <p>วริสา รัตนพันธ์ </p>
+                                        <img src="images\Samo47\Samo47_member\CREAM.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>CREAM</p>
+                                        <p>PANNICHA SRISAWANG</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายข้อมูลกิจกรรมนักศึกษา</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/11) ศิลปวัฒนธรรม.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>แตงกวา</p>
-                                        <p>ณัฐกฤตา ดอกคําใต้  </p>
+                                        <img src="images\Samo47\Samo47_member\KWANG.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>KWANG</p>
+                                        <p>SUPHARAT KLANGNIAM</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายศิลปวัฒนธรรม</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/9) กีฬา.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>นะนาย</p>
-                                        <p>เรืองยศ รังษีโกศัย </p>
+                                        <img src="images\Samo47\Samo47_member\AU.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>AU</p>
+                                        <p>ATTAPOL CHANGMAI</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายกีฬา</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/13) เทคโนโลยีสารสนเทศ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>อิม</p>
-                                        <p>อติวัณณ์ อนุมณี </p>
+                                        <img src="images\Samo47\Samo47_member\TOP.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>TOP</p>
+                                        <p>YODSAWIT KHAOTHONG</p>
                                         <p>ผู้ลงสมัครตำแหน่งฝ่ายงานเทคโนโลยีสารสนเทศ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/8) พัสดุ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>แพม</p>
-                                        <p>ปิยรัตน์ ยังแก้ว </p>
+                                        <img src="images\Samo47\Samo47_member\TIWTER.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>TIWTER</p>
+                                        <p>PAWIT SAEEIAK</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายพัสดุ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/16) สถานที่.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ณัฐ</p>
-                                        <p>ณัฐิฎา พิทักษ์จินดา </p>
+                                        <img src="images\Samo47\Samo47_member\USSAMAAN.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>USSAMAAN</p>
+                                        <p>SIRAPHAT SALAE</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายสถานที่</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/17) สาธารธสุข.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>จีจี้</p>
-                                        <p>อัจสมีดา พ่อศรีชา </p>
+                                        <img src="images\Samo47\Samo47_member\CHELSEA.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>CHELSEA</p>
+                                        <p>CHICHA PAIYASAT</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายสาธารณสุข</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/15) สันทนาการ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>จ๊อบ</p>
-                                        <p>ธนภัทร บัวมาก </p>
+                                        <img src="images\Samo47\Samo47_member\SYDIA.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>SYDIA</p>
+                                        <p>LALITA PUTTIPAN</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายสันทนาการ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/19) จัดซื้อจัดจ้าง.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ขิง</p>
-                                        <p>ณชฎา จันทวี </p>
+                                        <img src="images\Samo47\Samo47_member\SAI.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>SAI</p>
+                                        <p>RAWIWAN SUWANCHATREE</p>
                                         <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายจัดซื้อจัดจ้าง</p>
                                     </div>
                                     <br>
@@ -329,17 +340,17 @@
                                     </div>
                                     <br> -->
                                     <div>
-                                        <img src="images/group/samo46_h/18) ธุรการ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ไอซ์</p>
-                                        <p>ชนิศา ทิพย์มณเฑียร </p>
-                                        <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายธุรการ</p>
+                                        <img src="images\Samo47\Samo47_member\VIEW.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>VIEW</p>
+                                        <p>SALINTIP CHOTCHOEY</p>
+                                        <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายพิธีการ</p>
                                     </div>
                                     <br>
                                     <div>
-                                        <img src="images/group/samo46_h/20) ครีเอทีฟ.JPG" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
-                                        <p>ใบหยก</p>
-                                        <p>เขมิสรา พิรุณ </p>
-                                        <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายครีเอทีฟ</p>
+                                        <img src="images\Samo47\Samo47_member\WEE.png" class="img-fluid" style="max-width: 45%; max-height: 50%;" alt="">
+                                        <p>WEE</p>
+                                        <p>PARAWEE SOHWANG</p>
+                                        <p>ผู้ลงสมัครตำแหน่งประธานฝ่ายกิจกรรม</p>
                                     </div>
                                 </div>
                                 <div class="modal-footer">
