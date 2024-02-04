@@ -128,7 +128,7 @@
         <div class="container">
             <div class="row">
                 <div class="main-slider">
-                    <img src="./images/home/slider/samo4.PNG" width="40%;" class="slider-sun" alt="slider image">
+                    <img src="./images/home/slider/Samo47.PNG" width="40%;" class="slider-sun" alt="slider image">
                     <div class="slide-text">
                         <h1>โครงการเลือกตั้ง<br>คณะกรรมการบริหารสโมสรนักศึกษาคณะวิทยาการจัดการ</h1>
                         <p class="text-desc">ประจำปีการศึกษา 2566<br>
