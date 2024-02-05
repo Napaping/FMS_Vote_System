@@ -131,7 +131,7 @@
                     <img src="./images/home/slider/Samo47.PNG" width="40%;" class="slider-sun" alt="slider image">
                     <div class="slide-text">
                         <h1>โครงการเลือกตั้ง<br>คณะกรรมการบริหารสโมสรนักศึกษาคณะวิทยาการจัดการ</h1>
-                        <p class="text-desc">ประจำปีการศึกษา 2566<br>
+                        <p class="text-desc">ประจำปีการศึกษา 2567<br>
                             <i class="fas fa-grip-vertical"></i> โครงการด้านส่งเสริมระบอบประชาธิปไตย และสร้างความเป็นผู้นำ</p>
                         <h3 class="title-desc" style="color:Red;" >ขณะนี้เวลา 
                                 <span id="clock"></span>
