@@ -23,7 +23,7 @@
 	$tPass = $_REQUEST["txt-password"];
 	$datecurrent = date("d/m/Y");
 
-	$wsdl = "https://passport.psu.ac.th/authentication/authentication.asmx?wsdl";
+	$wsdl = "PSUAPI";
 	$client = new SoapClient($wsdl, array(
 			"trace" => 1,	// enable trace to view what is happening
 			"exceptions" => 0,	// disable exceptions
